@@ -13,6 +13,8 @@
 
 * **<a href="https://githubusercontent.com" target="_blank" rel="noopener noreferrer">👉 エアーホッケー対戦デモ動画（mp4）を再生する</a>**
 
+<video src="./images/airhockey.mp4" width="100%" controls playsinline></video>
+
 ---
 
 ## 💡 開発・運用におけるネットワーク帯域（容量）最適化の検証
