@@ -9,7 +9,7 @@
 ## 🎥 動作デモ・対戦風景
 本アプリはローカル環境（同一ネットワーク内）の低レイテンシ通信に特化して設計されているため、手元での実行画面を **OBS-Studio** で録画したデモ動画を以下に公開しています。
 
-* **[👉 エアーホッケー対戦デモ動画（mp4）を再生する](./images/airhockey.mp4)**
+* **<a href="https://githubusercontent.com" target="_blank" rel="noopener noreferrer">👉 エアーホッケー対戦デモ動画（mp4）を再生する</a>**
 
 ---
 
