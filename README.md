@@ -56,6 +56,8 @@ GitHub機能（Mermaid.js）による、バックエンド（8080ポート）と
 ```mermaid
 sequenceDiagram
     autonumber
+    %% 各プレイヤーとサーバーのインタラクション定義
+```
     actor PlayerA as "プレイヤーA (PC)"
     participant Server as Node.js "サーバー (PC)"
     actor PlayerB as "プレイヤーB (PC)"
