@@ -11,7 +11,7 @@
 
 <video src="./images/airhockey.mp4" width="100%" controls preload="metadata"></video>
 
-* <details><summary>👉 **エアーホッケー対戦デモ動画（mp4）を再生する**</summary><video src="./images/airhockey.mp4" width="100%" controls preload="metadata"></video></details>
+<details><summary>👉 **エアーホッケー対戦デモ動画（mp4）を再生する**</summary><video src="./images/airhockey.mp4" width="100%" controls preload="metadata"></video></details>
 
 ---
 
