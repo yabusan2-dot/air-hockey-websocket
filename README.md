@@ -11,6 +11,7 @@
 
 <details><summary>👉 **エアーホッケー対戦デモ動画（mp4）を再生する**</summary><video src="./images/airhockey.mp4" width="100%" controls preload="metadata"></video></details>
 
+* **[👉 エアーホッケー対戦デモ動画（mp4）を再生する](./images/airhockey.mp4?raw=true)**
 ---
 
 ## 💡 開発・運用におけるネットワーク帯域（容量）最適化の検証
