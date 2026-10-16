@@ -55,7 +55,23 @@ GitHub機能（Mermaid.js）による、バックエンド（8080ポート）と
 
 ```mermaid
 sequenceDiagram
-    A->>B: 挨拶
+    autonumber
+    actor PlayerA as "プレイヤーA (PC)"
+    participant Server as Node.js "サーバー (PC)"
+    actor PlayerB as "プレイヤーB (PC)"
+
+    Note over PlayerA, PlayerB: ルーム機能でマッチング完了
+    
+    PlayerA->>Server: ① マウス移動（ラケットのX/Y座標を送信）
+    Server-->>PlayerB: ② プレイヤーAの座標をリアルタイム転送
+    Note over PlayerB: プレイヤーBの画面に反映
+
+    PlayerB->>Server: ③ マウス移動（ラケットのX/Y座標を送信）
+    Server-->>PlayerA: ④ プレイヤーBの座標をリアルタイム転送
+    Note over PlayerA: プレイヤーAの画面に反映
+
+    Note over PlayerA, PlayerB: 定期的なパック（玉）の座標同期処理
+    
 ```
 
 
