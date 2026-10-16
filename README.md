@@ -78,5 +78,5 @@ sequenceDiagram
 ## 📂 ディレクトリ・ファイル構成
 * **`server.mjs`**: HTTPサーバー構築、WebSocket独自プロトコル（エンコード/デコード）、ルーム管理、30ms物理演算ループコア
 * **`index.html`**: HTML5 Canvas描画画面、キーボード入力リスナー、クライアント側レシーバー
-* **`対戦動画のファイル名.mp4`**: OBS-Studioによる対戦キャプチャ動画原本
+* **`./images/airhockey.mp4`**: OBS-Studioによる対戦キャプチャ動画原本
 
