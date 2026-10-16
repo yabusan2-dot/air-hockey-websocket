@@ -9,9 +9,7 @@
 ## 🎥 動作デモ・対戦風景
 本アプリはローカル環境（同一ネットワーク内）の低レイテンシ通信に特化して設計されているため、手元での実行画面を **OBS-Studio** で録画したデモ動画を以下に公開しています。
 
-<details><summary>👉 **エアーホッケー対戦デモ動画（mp4）を再生する**</summary><video src="./images/airhockey.mp4" width="100%" controls preload="metadata"></video></details>
-
-* **[👉 エアーホッケー対戦デモ動画（mp4）を再生する](./images/airhockey.mp4?raw=true)**
+* **[👉 エアーホッケー対戦デモ動画（mp4）を再生する](https://github.com/yabusan2-dot/air-hockey-websocket/issues/1)**
 ---
 
 ## 💡 開発・運用におけるネットワーク帯域（容量）最適化の検証
